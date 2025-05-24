@@ -29,7 +29,7 @@ npm install
 npm run dev
 ```
 
-Live Link of Project : 
+Live Link of Project : https://chatbot-ai-omega-lilac.vercel.app/
 
 
 🤝 Feedback / Contribution Pull requests are welcome. For major changes, please open an issue first.
